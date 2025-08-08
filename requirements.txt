@@ -1,6 +1,6 @@
 streamlit
 requests
-speechrecognition
+speech_recognition
 PIL
 transformers
 torch
